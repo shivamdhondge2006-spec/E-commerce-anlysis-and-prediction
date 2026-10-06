@@ -1,0 +1,4 @@
+
+db/olist.db
+__pycache__/
+*.py[cod]
